@@ -17,6 +17,11 @@
 @import url('./back-link.css');
 @import url('./footer.css');
 
+body{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .form {
   display: flex;
   flex-direction: row;
